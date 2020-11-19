@@ -3,6 +3,7 @@ Palestra apresentada na semana de computação da Universidade Federal da Bahia 
 
 [Clique aqui](https://baiana.github.io/reviseMinhaPalestraSemcomp/) para acessar os slides! 
 
+[Clique aqui](https://youtu.be/DEIlxN-MRgY?t=15072) para assistir a gravação da palestra no canal da [SEMCOMP UFBA!](https://www.youtube.com/channel/UCPgI4qXl4ohJofM0mTPjV2A)
 
 ## Referências e sugestões de leitura 
 ❤️ - meus favoritos
